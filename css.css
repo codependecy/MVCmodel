@@ -22,9 +22,9 @@ button{
     font-size: 30px;
     font-family: "Microsoft YaHei";
 }
-#prev{
+#add{
     background: lightgoldenrodyellow;
 }
-#next{
+#sub{
     background: lightsalmon;
 }
